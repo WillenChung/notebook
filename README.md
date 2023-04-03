@@ -18,6 +18,8 @@ git commit -m "注释信息"
 git reflog  
 回滚
 git reset --hard 版本id  
+#### 注意
+回滚到之前版本未提交则会丢失  
 
 
 
