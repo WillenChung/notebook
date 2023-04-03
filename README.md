@@ -20,6 +20,7 @@ git reflog
 git reset --hard 版本id  
 #### 注意事项
 回滚到之前版本未提交则会丢失  
+git仓库子目录最好不要是git仓库  
 
 
 
